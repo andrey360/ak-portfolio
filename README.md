@@ -1,5 +1,26 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Here is an overview of the website!
+
+The home page shows a carousel with 3 different cards that serve as links to some of my works. 
+![Home Page:](https://github.com/andrey360/ak-portfolio/blob/master/ak-portfolio%20readme%20imgs/home.PNG)
+It features a link to my (empty) youtube channel:
+![Youtube Card](https://github.com/andrey360/ak-portfolio/blob/master/ak-portfolio%20readme%20imgs/yt%20link.PNG)
+A link to some samples I have made:
+![Samples Card](https://github.com/andrey360/ak-portfolio/blob/master/ak-portfolio%20readme%20imgs/samples%20link.PNG)
+And a link to a beatstore where I can sell my instrumentals to artists:
+![BeatStore Card](https://github.com/andrey360/ak-portfolio/blob/master/ak-portfolio%20readme%20imgs/bs%20link.PNG)
+There is a also a sounds page that can be navigated to using the navbar, that shows three playable .mp3/.wav files, which are instrumentals I have made.
+![Sounds Page](https://github.com/andrey360/ak-portfolio/blob/master/ak-portfolio%20readme%20imgs/sounds%20page.PNG)
+Finally, there is a contact form, which allows users to input a message to my. The backend will be implemented using a SendGrid API so that emails can actually be sent with this feature!
+![Contact Form](https://github.com/andrey360/ak-portfolio/blob/master/ak-portfolio%20readme%20imgs/contact%20form.PNG)
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
